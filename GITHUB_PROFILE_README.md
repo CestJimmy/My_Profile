@@ -1,8 +1,8 @@
 <div align="center">
 
-# Jimmy
+# Ahmed Soliman (Jimmy)
 
-### Applied AI Engineer · Building end-to-end intelligent systems
+### Data & AI Engineer · Building end-to-end intelligent systems
 
 [![Python](https://img.shields.io/badge/Python-3.11%2F3.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-async%20first-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -10,13 +10,38 @@
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-observability-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-production-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 
+📍 Giza, Egypt &nbsp;·&nbsp; ✉️ a.g.soliman@student.aast.edu
+
 </div>
 
 ---
 
 I design and ship **production-grade AI systems** — from multi-agent orchestration and LLM streaming pipelines to semantic caching, SQL guardrails, and full observability stacks.
 
-My focus is the gap between "LLM prototype" and "system you can actually run in production": correctness, latency, safety, and cost all matter.
+My focus is the gap between "LLM prototype" and "system you can actually run in production": correctness, latency, safety, and cost all matter. With a background spanning agentic AI research, enterprise ERP systems, and real-time data engineering, I bring both breadth and depth to every system I build.
+
+---
+
+## Experience
+
+**Data & AI Engineer** &nbsp;·&nbsp; Dayra Market &nbsp;·&nbsp; *Mar 2025 – Present*
+- Build AI architectures including LLMs, multi-agent orchestrations, and Computer Vision models for dynamic pricing and automated trade-in services.
+- Automated 90% of incoming customer traffic through an LLM-based Chatbot service.
+- Lead development of data warehouses, data flow, and ETL pipelines.
+- Reduced 60% of time and effort required for core business processes.
+
+**R&D Engineer (Generative AI)** &nbsp;·&nbsp; Electronic Government Authority of RAK &nbsp;·&nbsp; *Nov 2024 – Feb 2025*
+- Researched latest AI trends and adapted them to government sectors (Labor Courts, Traffic Control, Rental Courts).
+- Developed an architecture for automated generative orchestration of AI agents with no-code scalability.
+
+**Technical Lead** &nbsp;·&nbsp; Microsoft &nbsp;·&nbsp; *Aug 2024 – Nov 2024*
+- Youngest Tech Lead in the MENA region, leading a squad of support engineers.
+- Delivered 12 technical knowledge sessions across SQL, AI, OOP, BI, and RPA.
+- Achieved ~75% Claim/Closure rate without Dev Team involvement; 4.91★ customer satisfaction.
+
+**Software Support Engineer – D365 F&O** &nbsp;·&nbsp; Microsoft &nbsp;·&nbsp; *Apr 2023 – Aug 2024*
+- Built data pipelines and integrated AI models with clients' ERP systems.
+- Debugged application code (X++, .NET, Python) and conducted performance analysis.
 
 ---
 
@@ -76,18 +101,62 @@ schema_check ──► planner ──► orchestrator
 
 ---
 
+## Other Projects
+
+### Sia-Pulse
+A healthcare AI system that leverages machine learning to deliver insights and analytics for better healthcare outcomes — covering patient data trends, risk indicators, and operational metrics.
+
+**Tech Stack:** `Python` `FastAPI` `PyTorch` `Pandas` `PostgreSQL` `LangChain` `Azure ML`
+
+---
+
+### ChatBot
+An e-commerce conversational AI designed to enhance customer engagement, answer product queries, and streamline the shopping experience through natural language interactions.
+
+**Tech Stack:** `Python` `FastAPI` `LangChain` `Azure OpenAI` `LangGraph` `PostgreSQL` `Vector DB`
+
+---
+
+### Fraud Detector
+A robust fraud detection application that identifies and flags suspicious activities across transactional platforms using anomaly detection and classification models.
+
+**Tech Stack:** `Python` `PyTorch` `Pandas` `Scikit-learn` `XGBoost` `PostgreSQL` `FastAPI`
+
+---
+
+### Phone Segmentation
+A data analysis project focused on segmenting mobile phone users by usage patterns and demographics to surface consumer behaviour insights for business decision-making.
+
+**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `R` `Statistical Analysis`
+
+---
+
+### TradeIn API
+A RESTful API that powers trade-in workflows for retailers, enabling customers to submit, assess, and complete device trade-ins programmatically with automated valuation logic.
+
+**Tech Stack:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `Docker`
+
+---
+
 ## Technical Stack
 
 **AI / LLM**
 ```
 LangGraph · LangChain · OpenRouter · DeepSeek R1 · Qwen3 · GPT-oss
-RAG · ChromaDB · Sentence Transformers · sqlglot (AST analysis)
+AutoGen · Swarm · RAG · ChromaDB · Sentence Transformers · sqlglot (AST analysis)
+Azure OpenAI · Azure ML Studio · LLM Fine-tuning
 ```
 
 **Backend**
 ```
-Python 3.12 · FastAPI · SQLAlchemy · asyncio · Pydantic v2
-PostgreSQL · MongoDB · Server-Sent Events · JWT/Bearer auth
+Python 3.12 · FastAPI · Flask · SQLAlchemy · asyncio · Pydantic v2
+PostgreSQL · MS SQL · MongoDB · Vector DB · Server-Sent Events · JWT/Bearer auth
+```
+
+**Data & ML**
+```
+Pandas · PyTorch · Keras · OpenCV · XGBoost · Scikit-learn
+ETL Pipelines · Data Warehousing · Statistical Analysis · R · Matlab
 ```
 
 **Observability & Security**
@@ -100,12 +169,14 @@ Structured logging · Correlation IDs · slowapi rate limiting
 ```
 Docker (multi-stage) · Kubernetes · nginx · Helm
 GitHub Actions · GHCR · SSH deploy · ruff · black · mypy · pytest
+Cloud: Azure ML · AWS Fundamentals
 ```
 
 **Frontend**
 ```
 Vanilla JS (ES2022) · Server-Sent Events · Plotly.js · marked.js
 CSS animations (streaming bubble, answer-reveal transition, narration pills)
+HTML5 · CSS · JS · .NET Framework (C#, X++)
 ```
 
 ---
@@ -127,6 +198,15 @@ CSS animations (streaming bubble, answer-reveal transition, narration pills)
 - Agent evaluation frameworks — measuring answer quality, hallucination rate, and task completion across LLM providers
 - Structured outputs with constrained decoding for more reliable JSON from smaller models
 - Async agent memory with semantic deduplication
+
+---
+
+## Education
+
+**BS in Computer Science** (ABET-Accredited) &nbsp;·&nbsp; Arab Academy for Science and Technology &nbsp;·&nbsp; *2018 – 2022*
+Core: AI & Digital Data &nbsp;|&nbsp; Minor: Information Systems
+
+**Non-degree Summer Exchange** &nbsp;·&nbsp; University of Arkansas &nbsp;·&nbsp; *June – Aug 2021*
 
 ---
 
