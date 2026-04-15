@@ -8,7 +8,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-async%20first-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![LangGraph](https://img.shields.io/badge/LangGraph-multi--agent-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-observability-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-production-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Docker](https://img.shields.io/badge/Docker-containerized-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 
 📍 Giza, Egypt &nbsp;·&nbsp; ✉️ a.g.soliman@student.aast.edu
 
