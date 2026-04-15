@@ -1,6 +1,24 @@
-# Welcome to My Profile
+<div align="center">
 
-This is a comprehensive overview of my GitHub profile and the exciting projects I'm working on.
+# Jimmy
+
+### Applied AI Engineer · Building end-to-end intelligent systems
+
+[![Python](https://img.shields.io/badge/Python-3.11%2F3.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-async%20first-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-multi--agent-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-observability-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-production-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+
+</div>
+
+---
+
+I design and ship **production-grade AI systems** — from multi-agent orchestration and LLM streaming pipelines to semantic caching, SQL guardrails, and full observability stacks.
+
+My focus is the gap between "LLM prototype" and "system you can actually run in production": correctness, latency, safety, and cost all matter.
+
+---
 
 ## Integrated Projects
 
