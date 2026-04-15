@@ -9,6 +9,11 @@
 [![LangGraph](https://img.shields.io/badge/LangGraph-multi--agent-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-observability-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io)
 [![Docker](https://img.shields.io/badge/Docker-containerized-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![Flask](https://img.shields.io/badge/Flask-web%20framework-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![SQL](https://img.shields.io/badge/SQL-relational%20DB-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MagenticOne](https://img.shields.io/badge/MagenticOne-multi--agent-5C2D91?style=flat-square&logo=microsoft&logoColor=white)](https://microsoft.com)
+[![AWS](https://img.shields.io/badge/AWS-cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Azure-cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
 📍 Giza, Egypt &nbsp;·&nbsp; ✉️ a.g.soliman@student.aast.edu
 
@@ -102,6 +107,13 @@ schema_check ──► planner ──► orchestrator
 ---
 
 ## Other Projects
+
+### Smart Judge — Chinese Criminal Law MAO
+A research project benchmarking multi-agent orchestration (MAO) against a single LLM on high-complexity legal judgement tasks. The system processes Chinese criminal case facts, extracts legally relevant features via fine-tuned LLMs, and predicts verdict sentences — outperforming a single-agent baseline by 10 months in MAE on sentence length prediction.
+
+**Tech Stack:** `Python` `LangGraph` `LangChain` `XGBoost` `PyTorch` `LLM Fine-tuning` `Pandas` `JSON`
+
+---
 
 ### Sia-Pulse
 A healthcare AI system that leverages machine learning to deliver insights and analytics for better healthcare outcomes — covering patient data trends, risk indicators, and operational metrics.
